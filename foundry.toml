@@ -1,0 +1,2 @@
+[rpc_endpoints]
+base_sepolia = "https://sepolia.base.org"
