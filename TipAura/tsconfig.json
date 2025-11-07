@@ -6,13 +6,15 @@
       "dom.iterable",
       "esnext"
     ],
+    "moduleResolution": "bundler"
+  ,
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
     "noEmit": true,
     "esModuleInterop": true,
     "module": "esnext",
-    "moduleResolution": "node",
+    // "moduleResolution": "node",
     "resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "preserve",
